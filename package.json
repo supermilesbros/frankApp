@@ -84,5 +84,8 @@
     "postcss": "8",
     "stylelint-order": "5",
     "postcss-sorting": "^7.0.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
